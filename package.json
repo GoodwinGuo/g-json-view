@@ -1,6 +1,6 @@
 {
   "name": "g-json-view",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A Vue component for rendering JSON data as a tree structure.",
   "author": "GoodwinGuo <1065102410@qq.com>",
   "repository": {
